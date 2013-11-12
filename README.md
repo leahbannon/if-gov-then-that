@@ -1,7 +1,7 @@
 if-gov-then-that
 ================
 
-marketing/publicizing gov APIs by making them as dead simple as IFTTT and Zapier (and suggesting clever recipes)
+Idea: Promote gov APIs by making them dead simple and suggesting clever recipes (like IFTTT and Zapier)
 
 rough brainstorming
 
