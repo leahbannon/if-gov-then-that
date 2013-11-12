@@ -15,7 +15,7 @@ rough brainstorming
 logistics/questions
 --
 
-* Start by turning triggers into RSS feeds and promoting IFTTT recipes with them?
+* Start by turning triggers into RSS feeds and promoting IFTTT recipes with them? Popular (albeit pointless) example: Text me when CDC reports a Zombie outbreak https://ifttt.com/recipes/48155
 * GSA is working with IFTTT now... updates appreciated...
 * Research YQL and Yahoo Pipes
 * 
