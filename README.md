@@ -17,6 +17,7 @@ rough brainstorming
 * A we the people petition passes x number of signatures, includes x keywords
 * "I had always envisioned agencies pushing each of their posts from any platform into an open Google Calendar so they can better see the spread of coverage between their sub-agencies, etc, and there would also be an easy to evaluate record for the public." - Justin Herman
 * Do a "cook-off"/hackathon w/ fed devs and IFTTT folks - @erie
+* If Natural Disaster (per NOAA) then Resources (localized per GPS) (FEMA) + (CDC) + (HHS) + (Coast Guard) + (National Guard) @hobokenmartha
 
 logistics/questions
 --
