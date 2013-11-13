@@ -24,3 +24,10 @@ logistics/questions
 * GSA is working with IFTTT now... updates appreciated...
 * Research YQL and Yahoo Pipes
 * 
+
+Get Involved!
+--
+
+* I'll be working on this at [Code for DC](http://codefordc.org).
+* Go research [IFTTT](https://ifttt.com/recipes) and Zapier for cool gov recipes that already exist.
+* Edit this readme file with suggestions/ideas.
