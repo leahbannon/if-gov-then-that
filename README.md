@@ -1,7 +1,9 @@
 if-gov-then-that
 ================
 
-Idea: Promote gov APIs by making them dead simple and suggesting clever recipes (like IFTTT and Zapier)
+Idea: Promote gov APIs by making them dead simple and suggesting clever recipes (like IFTTT and Zapier).
+
+**Contribute!** Add your random ideas below. Here is the [list of government APIs and developer hubs](http://www.data.gov/developers/page/developer-resources).
 
 rough brainstorming
 
